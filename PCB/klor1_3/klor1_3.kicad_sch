@@ -4123,6 +4123,17 @@
 		)
 		(uuid "9c3e25f9-6ef0-41be-b7ef-0e580ed90bbc")
 	)
+	(text "5 WAY\nSWITCH"
+		(exclude_from_sim no)
+		(at 143.51 128.524 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify right bottom)
+		)
+		(uuid "a14fdbd8-bd72-4000-a4c6-2e7b9ad1b3a5")
+	)
 	(text "TRRS"
 		(exclude_from_sim no)
 		(at 101.854 51.562 0)
@@ -5106,7 +5117,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 85.09) (xy 102.87 74.93)
+			(xy 139.7 156.21) (xy 139.7 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5656,7 +5667,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 80.01) (xy 87.63 74.93)
+			(xy 124.46 151.13) (xy 124.46 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5986,7 +5997,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 77.47) (xy 80.01 77.47)
+			(xy 105.41 148.59) (xy 116.84 148.59)
 		)
 		(stroke
 			(width 0)
@@ -6346,7 +6357,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 85.09) (xy 102.87 85.09)
+			(xy 105.41 156.21) (xy 139.7 156.21)
 		)
 		(stroke
 			(width 0)
@@ -6466,7 +6477,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 80.01) (xy 87.63 80.01)
+			(xy 105.41 151.13) (xy 124.46 151.13)
 		)
 		(stroke
 			(width 0)
@@ -6576,7 +6587,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 82.55) (xy 95.25 74.93)
+			(xy 132.08 153.67) (xy 132.08 146.05)
 		)
 		(stroke
 			(width 0)
@@ -6626,7 +6637,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 77.47) (xy 80.01 74.93)
+			(xy 116.84 148.59) (xy 116.84 146.05)
 		)
 		(stroke
 			(width 0)
@@ -7026,7 +7037,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 74.93) (xy 72.39 74.93)
+			(xy 105.41 146.05) (xy 109.22 146.05)
 		)
 		(stroke
 			(width 0)
@@ -7286,7 +7297,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 82.55) (xy 95.25 82.55)
+			(xy 105.41 153.67) (xy 132.08 153.67)
 		)
 		(stroke
 			(width 0)
@@ -7842,7 +7853,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 80.01 69.85 90)
+		(at 116.84 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7852,7 +7863,7 @@
 		)
 		(uuid "6390bd1e-0286-40bf-a774-005c600992d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.01 62.7525 90)
+			(at 116.84 133.8725 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7890,7 +7901,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 102.87 69.85 90)
+		(at 139.7 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7900,7 +7911,7 @@
 		)
 		(uuid "672fb289-233c-408b-8597-6196a66defdc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 102.87 62.7525 90)
+			(at 139.7 133.8725 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7914,7 +7925,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 95.25 69.85 90)
+		(at 132.08 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7924,7 +7935,7 @@
 		)
 		(uuid "6952e275-8e83-4ebf-b1dc-6761d98adeb7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.25 62.7525 90)
+			(at 132.08 133.8725 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8082,7 +8093,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 72.39 69.85 90)
+		(at 109.22 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8092,7 +8103,7 @@
 		)
 		(uuid "8e68ebb5-d78c-46e9-9d19-3d7cc77dfd92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3106 63.3245 90)
+			(at 109.1406 134.4445 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8322,7 +8333,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 87.63 69.85 90)
+		(at 124.46 140.97 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8332,7 +8343,7 @@
 		)
 		(uuid "b789c821-52c2-4192-865c-e4f8d610c861")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 87.63 62.7525 90)
+			(at 124.46 133.8725 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8562,7 +8573,7 @@
 	)
 	(global_label "row4"
 		(shape input)
-		(at 58.42 80.01 180)
+		(at 95.25 151.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8572,7 +8583,7 @@
 		)
 		(uuid "ce57b003-ec9d-4c51-b100-5f31a375eee5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.5317 79.9306 0)
+			(at 88.3617 151.0506 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9295,7 +9306,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 87.63 72.39 90)
+		(at 124.46 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9306,7 +9317,7 @@
 		(fields_autoplaced yes)
 		(uuid "05ff0afa-f252-4584-a845-281a18b4930e")
 		(property "Reference" "D25"
-			(at 90.17 72.3899 90)
+			(at 127 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9317,7 +9328,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 89.408 73.6599 90)
+			(at 126.238 144.7799 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9329,7 +9340,7 @@
 			)
 		)
 		(property "Footprint" "KLOR:Diode_SOD123"
-			(at 87.63 72.39 90)
+			(at 124.46 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9340,7 +9351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 72.39 90)
+			(at 124.46 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9351,7 +9362,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 87.63 72.39 0)
+			(at 124.46 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9955,7 +9966,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-cache:power_VCC")
-		(at 35.56 74.93 0)
+		(at 67.31 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9965,7 +9976,7 @@
 		(dnp no)
 		(uuid "0c515107-0be2-4999-889e-743800f37dbb")
 		(property "Reference" "#PWR017"
-			(at 35.56 78.74 0)
+			(at 67.31 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9976,7 +9987,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 35.56 69.85 0)
+			(at 67.31 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9986,7 +9997,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 74.93 0)
+			(at 67.31 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9997,7 +10008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 74.93 0)
+			(at 67.31 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10008,7 +10019,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 74.93 0)
+			(at 67.31 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13186,7 +13197,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 95.25 72.39 90)
+		(at 132.08 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13197,7 +13208,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f55003f-6ef9-41a1-a1c4-17ffc9440e0d")
 		(property "Reference" "D26"
-			(at 97.79 72.3899 90)
+			(at 134.62 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13208,7 +13219,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 97.028 73.6599 90)
+			(at 133.858 144.7799 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13220,7 +13231,7 @@
 			)
 		)
 		(property "Footprint" "KLOR:Diode_SOD123"
-			(at 95.25 72.39 90)
+			(at 132.08 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13231,7 +13242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 72.39 90)
+			(at 132.08 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13242,7 +13253,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 72.39 0)
+			(at 132.08 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13529,7 +13540,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 102.87 72.39 90)
+		(at 139.7 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13540,7 +13551,7 @@
 		(fields_autoplaced yes)
 		(uuid "57e61efa-9c80-4366-a53d-7be8bb174432")
 		(property "Reference" "D27"
-			(at 105.41 72.3899 90)
+			(at 142.24 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13551,7 +13562,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 104.648 73.6599 90)
+			(at 141.478 144.7799 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13563,7 +13574,7 @@
 			)
 		)
 		(property "Footprint" "KLOR:Diode_SOD123"
-			(at 102.87 72.39 90)
+			(at 139.7 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13574,7 +13585,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 72.39 90)
+			(at 139.7 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13585,7 +13596,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 72.39 0)
+			(at 139.7 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17181,7 +17192,7 @@
 	)
 	(symbol
 		(lib_id "DjinnSymbols:5Way-Tactile_K1-1506DN-01")
-		(at 63.5 80.01 0)
+		(at 100.33 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17191,7 +17202,7 @@
 		(dnp no)
 		(uuid "b60e91fe-52fc-49de-b3da-13568e654d2a")
 		(property "Reference" "SW23"
-			(at 57.404 62.992 0)
+			(at 91.694 139.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17201,7 +17212,7 @@
 			)
 		)
 		(property "Value" "5Way-Tactile_K1-1506DN-01"
-			(at 57.404 65.532 0)
+			(at 91.694 141.986 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17211,7 +17222,7 @@
 			)
 		)
 		(property "Footprint" "reversible-kicad-footprints:5Way-K1-1506DN-01"
-			(at 47.625 75.565 0)
+			(at 84.455 146.685 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17222,7 +17233,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 47.625 75.565 0)
+			(at 84.455 146.685 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17233,7 +17244,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 63.5 80.01 0)
+			(at 100.33 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17849,7 +17860,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 80.01 72.39 90)
+		(at 116.84 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17860,7 +17871,7 @@
 		(fields_autoplaced yes)
 		(uuid "c64ada3d-e815-43ec-8d8e-c0c37b46d6e6")
 		(property "Reference" "D24"
-			(at 82.55 72.3899 90)
+			(at 119.38 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17871,7 +17882,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 81.788 73.6599 90)
+			(at 118.618 144.7799 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17883,7 +17894,7 @@
 			)
 		)
 		(property "Footprint" "KLOR:Diode_SOD123"
-			(at 80.01 72.39 90)
+			(at 116.84 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17894,7 +17905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 72.39 90)
+			(at 116.84 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17905,7 +17916,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 80.01 72.39 0)
+			(at 116.84 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18101,7 +18112,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 22.606 74.93 0)
+		(at 54.356 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18112,7 +18123,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8ed7628-0a4e-41e6-a64a-18e54924e88c")
 		(property "Reference" "#FLG01"
-			(at 22.606 73.025 0)
+			(at 54.356 73.025 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18123,7 +18134,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 22.606 70.104 0)
+			(at 54.356 70.104 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18133,7 +18144,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.606 74.93 0)
+			(at 54.356 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18144,7 +18155,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.606 74.93 0)
+			(at 54.356 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18155,7 +18166,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 22.606 74.93 0)
+			(at 54.356 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18255,7 +18266,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 72.39 72.39 90)
+		(at 109.22 143.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18266,7 +18277,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9b195ef-96a3-495b-a028-8399adf5d6c3")
 		(property "Reference" "D23"
-			(at 74.93 72.3899 90)
+			(at 111.76 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18277,7 +18288,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 74.168 73.6599 90)
+			(at 110.998 144.7799 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18289,7 +18300,7 @@
 			)
 		)
 		(property "Footprint" "KLOR:Diode_SOD123"
-			(at 72.39 72.39 90)
+			(at 109.22 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18300,7 +18311,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 72.39 90)
+			(at 109.22 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18311,7 +18322,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 72.39 72.39 0)
+			(at 109.22 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19470,7 +19481,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 22.606 74.93 0)
+		(at 54.356 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19481,7 +19492,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1947907-4084-42d6-a357-4289886a6f75")
 		(property "Reference" "#PWR016"
-			(at 22.606 81.28 0)
+			(at 54.356 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19492,7 +19503,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 22.606 80.01 0)
+			(at 54.356 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19502,7 +19513,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 22.606 74.93 0)
+			(at 54.356 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19513,7 +19524,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 22.606 74.93 0)
+			(at 54.356 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19524,7 +19535,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 22.606 74.93 0)
+			(at 54.356 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20115,7 +20126,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 35.56 74.93 180)
+		(at 67.31 74.93 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20125,7 +20136,7 @@
 		(dnp no)
 		(uuid "f8983006-0db1-401d-807b-7ee9562b305c")
 		(property "Reference" "#FLG02"
-			(at 35.56 76.835 0)
+			(at 67.31 76.835 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20136,7 +20147,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 30.734 80.264 0)
+			(at 62.484 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20147,7 +20158,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 35.56 74.93 0)
+			(at 67.31 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20158,7 +20169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 74.93 0)
+			(at 67.31 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20169,7 +20180,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 35.56 74.93 0)
+			(at 67.31 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
